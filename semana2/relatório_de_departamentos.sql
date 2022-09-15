@@ -1,0 +1,1 @@
+select sigla,nome from departamento order by nome;
